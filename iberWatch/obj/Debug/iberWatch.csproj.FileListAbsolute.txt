@@ -1,0 +1,9 @@
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\bin\Debug\iberWatch.exe.config
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\bin\Debug\iberWatch.exe
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\bin\Debug\iberWatch.pdb
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.iberWatch.resources
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.Properties.Resources.resources
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.exe
+C:\Users\Toshiba\Downloads\Literatura\Viti II\Semestri III\C++\C++\iberWatch\obj\Debug\iberWatch.pdb
